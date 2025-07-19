@@ -6,7 +6,7 @@
 |----------|------------------------------|
 | 氏名     | 梶原 大進 (Daishin Kajiwara) |
 | 生年月日 | 1999/04/13                   |
-| 最終学歴 |                              |
+| 最終学歴 | 名古屋大学情報学部           |
 
 ---
 
@@ -21,15 +21,21 @@
 
 ## 概要・アピールポイント
 
-**3 年間のフルスタックエンジニアとしての実務経験**を活かし、**決済システム開発**と**スクラムマスタとしてのチームマネジメント**に知見を持ったソフトウェアエンジニアです。
+**4年間のAI・SREエンジニアとしての実務経験**を活かし、**機械学習基盤の開発・運用**と**リードエンジニアとしてのチームマネジメント**に知見を持ったソフトウェアエンジニアです。
 
 **主な強み：**
 
-- xxx
+- Kubernetes環境での大規模AI推論基盤の設計・運用経験
+- SREとしての監視・CI/CD・負荷試験による運用品質向上のスキル  
+- AIエンジニアとの協業による技術課題解決とロードマップ策定能力
+- プレイヤーとリーダーの両面でのバランス取れた技術的貢献
 
 **技術的成果：**
 
-- x
+- GKE上での全社共通AI推論基盤構築により、社内AI開発効率を大幅向上
+- Pococha審査AIシステムの安定運用実現による配信品質の維持
+- 推論基盤の品質課題を技術的提言により解決し、システム性能を改善
+- AIエンジニアチームとの連携による開発ロードマップ策定と品質向上の推進
 
 ---
 
@@ -38,22 +44,21 @@
 ### 言語
 
 <p>
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
 
 <p>
-  <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&style=flat" />
-  <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-%23161616.svg?logo=circleci&style=flat" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="ArgoCD" src="https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
 </p>
 
 ### 専門分野
@@ -64,112 +69,47 @@
 
 ## 職務経歴
 
-### STORES 株式会社 | ソフトウェアエンジニア（2025/02〜現在）
+### 株式会社 DeNA （2022/04〜2024/12）
 
-**【プロジェクト 1】STORES 決済と STORES 連係強化**  
-_期間：2025 年 2 月〜2025 年 5 月 | チーム規模：8 人 | 技術：Java 8, Spring Boot_
+**【プロジェクト】社内AI基盤の保守・運用**  
+_期間：2022年4月〜2025年12月 | チーム規模：3-4人 | 技術：Python, Go, GKE(Google Kubernetes Engine)_
 
-**担当業務・成果：**
+**1-2年目（2022年4月〜2024年3月）：AIのSREエンジニア**
 
-- STORES 決済の OIDC による STORES ログイン対応を実装
-- STORES オンボーディングサービスとのデータ連携機能を開発
-- 複数サービス間での結果整合性を意識したサービス設計を担当
-- **利便性向上により、サービス間の連携を強化**
+**機械学習推論基盤の開発運用**
 
----
+- 全社共通で推論モデルを実行する為の基盤システムの開発・運用を担当
+- 社内でのAI機能開発効率向上と安定性改善を目的とした基盤整備
+- Kubernetesの管理ツールの開発を実施
+- **GKE(Google Kubernetes Engine)を活用した推論基盤により、社内AI開発の効率化を実現**
 
-**【プロジェクト 2】STORES 予約 決済システム移行**  
-_期間：2025 年 6 月〜2025 年 12 月 | チーム規模：4 人 | 技術：Rails 8, Ruby 3.4_
+**Pococha審査AIシステムの運用保守**
 
-**担当業務・成果：**
+- 配信のキャプチャー画像審査および配信内容の規約自動審査システムの運用
+- CI/CDパイプラインの整備による開発・デプロイプロセスの改善
+- 監視システム導入と負荷試験による運用品質向上
+- **安定した審査システム運用により、配信品質の維持に貢献**
 
-- GMO 決済のサーバーサイド実装と 3D Secure 認証を含むフロントエンド実装
-- 審査・入金業務の Stripe 依存からの脱却を実現
-- **決済システムの内製化によるコスト削減と安定性の向上を実現**
+**3-4年目（2024年4月〜2025年12月）：リードエンジニア**
 
----
-
-### 株式会社 DeNA | ソフトウェアエンジニア（2022/04〜2024/12）
-
-**【プロジェクト】Voice Pococha**  
-_期間：2022 年 7 月〜2024 年 12 月 | チーム規模：7 人 | 技術：Ruby on Rails, Vue(TypeScript)_
-
-**1 年目（2022 年 7 月〜2023 年 6 月）：エンジニア**
-
-- 高リクエスト数のライブ配信アプリの Server 開発と運用
-- 新機能のデータベース設計および開発
-- AWS インフラ環境下での CS 調査と障害対応
-- Docker, AWS ECS を用いたコンテナベースの開発と運用
-
-**2 年目（2023 年 7 月〜2024 年 6 月）：開発リーダー**
-
-- **6 ヶ月間のプロジェクトの開発リーダーとして、プロジェクトの進行管理・調整**
-- スケーラビリティを考慮した新機能のデータベース設計
-- スクラムを用いたチーム開発の進行管理
-
-**3 年目（2024 年 7 月〜2024 年 12 月）：スクラムマスター**
-
-- **7 名のエンジニアチームのスクラムマスタとして、チームの生産性向上をサポート**
-- スプリントごとのメンバーのタスクの進捗管理
-- タスクの見積もりとスプリント計画作成のサポート
-
-**決済機能に関する実績：**
-
-- Amazon Pay 決済機能の導入
-- GMO Payment Gateway を用いた Apple Pay 決済機能の導入
-- GMO Payment Gateway を用いた Google Pay 決済機能の導入
+- AIエンジニアチームとの連携強化によるシステム品質向上をリード
+- 推論基盤のスクリプト品質に課題があったため、SRE担当への移管を提言し性能改善を実現
+- AIエンジニアとの議論を通じて推論基盤の開発ロードマップを策定
+- リーダー業務と並行してプレイヤーとしての技術的貢献も継続
+- 技術的リーダーシップにより、AI基盤の品質向上と開発効率の最適化を推進
 
 ---
 
 ## その他の実務経験
 
-### 株式会社 glasp | フロントエンドエンジニア（業務委託）
-
-_期間：2024 年 4 月〜2024 年 5 月 | チーム規模：3 人 | 技術：Next.js, Firebase_
-
-- Next.js、Firebase を用いたフロントエンド開発
-- Next 14 での SSR を用いたコンポーネント開発
-- FireStore を用いた NoSQL でのデータベース設計
-
-### 株式会社 purpom-media-lab | フルスタックエンジニア（業務委託）
-
-_期間：2023 年 7 月〜2024 年 2 月 | 技術：Next.js, NestJS + Prisma(TypeScript)_
-
-**広告配信管理サービス（2023 年 10 月〜2024 年 2 月）**
-
-- Next.js、RestAPI、OpenAPI を用いたフロントエンド開発
-- React Material UI を用いたコンポーネント駆動開発
-
-**介護加算業務ツール（2023 年 7 月〜10 月）**
-
-- Next.js、GraphQL を用いたフロントエンド開発
-- Apollo Client を用いた GraphQL 開発
-- NestJS、Prisma を用いたバックエンド開発、テスト作成
-- @nestjs/graphql を用いた Service、Resolver の作成
-- Jest を用いたユニットテスト、統合テストの作成
-
-### 株式会社 DeNA | 内定者インターン（2021/06〜2021/10）
-
-**Pococha Web**  
-_期間：2021 年 6 月〜2021 年 10 月 | チーム規模：6 人 | 技術：Next.js(TypeScript), Storybook, Cypress, MSW_
-
-- Next.js、Storybook、MSW を用いたコンポーネント駆動の SPA 開発
-- プロジェクト内での共通コンポーネントの作成と既存コンポーネントの改善
-- Cypress を用いた E2E テストの改善
-- Circle CI 上で E2E（End-to-End）テストを導入し、テストカバレッジを向上
-
 ---
 
 ## 学歴
 
-**大阪大学 工学部 応用理工学科**（2018 年 4 月〜2022 年 3 月）
+xxx
 
 ---
 
 ## 自己 PR
 
-**技術力とリーダーシップの両面で成長し続けるエンジニア**
-
-DeNA での 2 年 9 ヶ月の経験を通じて、エンジニアからスクラムマスタまで段階的にキャリアを積み、技術力とマネジメント力の両方を磨いてきました。特に決済システムの設計・実装において、Amazon Pay、GMO Payment Gateway、Stripe など複数の決済サービスの実装経験があり、現在の STORES 株式会社でも決済システムの移行プロジェクトを担当しています。
-
-またマイクロサービス環境での結果整合性を意識したシステム設計や、高リクエスト数のライブ配信アプリの安定運用など、スケーラブルなシステム開発の経験があります。今後も上記の経験を活かして、より大きな技術的課題に挑戦していきたいと考えています。
+xxx
