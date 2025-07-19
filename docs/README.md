@@ -3,7 +3,7 @@
 ## 基本情報
 
 | key      | value                        |
-| -------- | ---------------------------- |
+|----------|------------------------------|
 | 氏名     | 海老野　瑛也　(Takaya Ebino) |
 | 生年月日 | 1999/03/18                   |
 | 最終学歴 | 大阪大学 工学部 応用理工学科 |
@@ -13,8 +13,8 @@
 ## 各種アカウント
 
 <p>
-  <a href="https://github.com/takaya787" target="_blank"><img alt="Github" src="https://img.shields.io/badge/takaya787-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://qiita.com/takaya787" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/takaya787-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://github.com/shin04" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shin04-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://qiita.com/shin04" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/shin04-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 ---

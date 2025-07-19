@@ -3,7 +3,7 @@
 ## Basic Information
 
 | Key           | Value                                                                    |
-| ------------- | ------------------------------------------------------------------------ |
+|---------------|--------------------------------------------------------------------------|
 | Name          | Takaya Ebino                                                             |
 | Date of Birth | March 18, 1999                                                           |
 | Education     | Osaka University, School of Engineering, Applied Science and Engineering |
@@ -13,8 +13,8 @@
 ## Social Media Accounts
 
 <p>
-  <a href="https://github.com/takaya787" target="_blank"><img alt="Github" src="https://img.shields.io/badge/takaya787-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-  <a href="https://qiita.com/takaya787" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/takaya787-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+  <a href="https://github.com/shin04" target="_blank"><img alt="Github" src="https://img.shields.io/badge/shin04-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://qiita.com/shin04" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/shin04-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 </p>
 
 ---
