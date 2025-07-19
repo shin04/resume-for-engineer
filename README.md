@@ -1,4 +1,4 @@
-# Takaya Ebino's resume
+# Daishin Kajiwara's resume
 
 This repository contains my resume in both Japanese and English.
 
