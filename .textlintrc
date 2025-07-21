@@ -6,10 +6,10 @@
         "severity": "warning"
       },
       "max-comma": {
-        "max": 3
+        "max": 4
       },
       "max-ten": {
-        "max": 3
+        "max": 4
       },
       "max-kanji-continuous-len": {
         "max": 6
@@ -106,7 +106,6 @@
       "ja-space-after-question": false,
       "ja-no-space-between-full-width": false
     },
-    "spellcheck-tech-word": true,
     "period-in-list-item": {
       "periodMark": "",
       "periodMarks": [
