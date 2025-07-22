@@ -10,13 +10,6 @@
 
 ---
 
-## 各種アカウント
-
-[![Github](https://img.shields.io/badge/shin04-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/xxx)
-[![Qiita](https://img.shields.io/badge/shin04-55C500.svg?&style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/xxx)
-
----
-
 ## 概要・アピールポイント
 
 機械学習基盤や AI 審査システムの開発・運用を中心に、プラットフォームエンジニア、SRE、MLOps エンジニア、PdM/PM など多様な役割を経験。
@@ -66,6 +59,13 @@ Kubernetes やクラウド（GCP/AWS/Azure）、IaC（Terraform）、CI/CD、監
 - IaC、CI/CD、監視・運用体制の構築
 - SRE の実践によるサービス品質・運用効率の向上
 - プロジェクトマネジメント・チームリーディング・ドキュメンテーション推進
+
+---
+
+## 対外発信・登壇など
+
+- 2025/2/5 [【DeNA × AI Day】機械学習モデルの安定提供を加速させる社内基盤 Hekatoncheir](https://techcon2025.dena.dev/sessions/ais-1600/)
+- 2024/9 [機械学習モデル推論プラットフォーム Hekatoncheir の現在](https://engineering.dena.com/blog/2024/09/hekatoncheir-introduction/)
 
 ---
 
@@ -166,9 +166,14 @@ Kubernetes やクラウド（GCP/AWS/Azure）、IaC（Terraform）、CI/CD、監
 
 ### 株式会社 Optimind | インフラエンジニア, データエンジニア（期間）
 
-期間：20xx 年 m 月 ~ 20xx 年 m 月 | チーム規模： n 人 | 技術：xxx
+期間：2022 年 6 月 ~ 現在
+チーム規模： 2 ~ 3 人
+技術：Python,dbt, AWS, Google Cloud, Terraform
 
-- xxx
+- AWS IoT Event を用いた IoT デバイスの異常検知の仕組みの実装
+- GitHub Actions を利用した CI/CD やその他業務改善のための各種ワークフローの整備
+- データ集計基盤の不具合修正・機能追加
+- データ分析基盤のパイプラインの改善
 
 ---
 
